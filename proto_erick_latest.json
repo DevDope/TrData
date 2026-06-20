@@ -2,7 +2,7 @@
   "device": "proto_erick",
   "file": "proto_erick_latest.csv.enc",
   "source": "proto_erick_enriched_outside_weather.csv",
-  "updated_at": "2026-06-20T01:06:10-06:00",
+  "updated_at": "2026-06-20T01:10:23-06:00",
   "plain_size_bytes": 259747,
   "encrypted_size_bytes": 259776,
   "cipher": "aes-256-cbc",
