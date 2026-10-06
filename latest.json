@@ -1,0 +1,15 @@
+{
+  "device": "base-01",
+  "file": "latest.csv.enc",
+  "source": "base-01_enriched_outside_weather.csv",
+  "version": "1.0.0",
+  "model": "Base",
+  "updated_at": "2026-10-06T17:30:26-06:00",
+  "plain_size_bytes": 130543,
+  "encrypted_size_bytes": 130560,
+  "cipher": "aes-256-cbc",
+  "kdf": "pbkdf2",
+  "hash": "sha256",
+  "iterations": 200000,
+  "format": "openssl-salted"
+}
