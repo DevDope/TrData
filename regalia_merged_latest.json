@@ -1,0 +1,18 @@
+{
+  "device": "regalia_merged",
+  "file": "regalia_merged_latest.csv.enc",
+  "sources": [
+    "proto_enriched_outside_weather.csv",
+    "data.csv"
+  ],
+  "rows": 47173,
+  "columns": 118,
+  "updated_at": "2026-10-22T17:31:17.423Z",
+  "plain_size_bytes": 39623879,
+  "encrypted_size_bytes": 39623904,
+  "cipher": "aes-256-cbc",
+  "kdf": "pbkdf2",
+  "hash": "sha256",
+  "iterations": 200000,
+  "format": "openssl-salted"
+}
