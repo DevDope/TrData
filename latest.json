@@ -1,0 +1,13 @@
+{
+  "device": "proto-erick",
+  "file": "latest.csv.enc",
+  "source": "proto_erick_enriched_outside_weather.csv",
+  "updated_at": "2026-11-24T01:00:13-06:00",
+  "plain_size_bytes": 1264476,
+  "encrypted_size_bytes": 1264496,
+  "cipher": "aes-256-cbc",
+  "kdf": "pbkdf2",
+  "hash": "sha256",
+  "iterations": 200000,
+  "format": "openssl-salted"
+}
